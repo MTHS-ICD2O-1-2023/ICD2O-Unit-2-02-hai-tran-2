@@ -6,6 +6,6 @@
 
 function doMathClicked() {
   document.getElementById("area of rectangle").innerHTML = "<p>The area is: " + (5 * 3) + " cm² <p>"
-  document.getElementById("perimeter of rectangle").innerHTML = "<p>The area is: " + ((5 + 3) * 2) + " cm <p>"
+  document.getElementById("perimeter of rectangle").innerHTML = "<p>The perimeter is: " + ((5 + 3) * 2) + " cm <p>"
 }
 
